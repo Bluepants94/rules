@@ -1,4 +1,6 @@
-USER-AGENT,HBO%20NOW*
+USER-AGENT,HBO%20GO*
+USER-AGENT,HBOAsia*
 DOMAIN-SUFFIX,hbogo.com
 DOMAIN-SUFFIX,hboasia.com
 DOMAIN-SUFFIX,hbogoasia.hk
+DOMAIN-SUFFIX,execute-api.ap-southeast-1.amazonaws.com
