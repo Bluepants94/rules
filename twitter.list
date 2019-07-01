@@ -1,0 +1,11 @@
+# Twitter
+USER-AGENT,Twitch*
+PROCESS-NAME,Twitter
+PROCESS-NAME,Twitterrific
+DOMAIN-KEYWORD,twitter
+DOMAIN-KEYWORD,twimg
+DOMAIN-SUFFIX,twimg.co
+DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twitpic.com
+DOMAIN-SUFFIX,twitthat.com
