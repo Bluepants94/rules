@@ -1,0 +1,17 @@
+# 网易云音乐
+# HTTP/PING REQUESTS
+IP-CIDR,103.65.41.125/32,no-resolve
+IP-CIDR,103.65.41.126/32,no-resolve
+IP-CIDR,223.252.199.66/32,no-resolve
+IP-CIDR,223.252.199.67/32,no-resolve
+IP-CIDR,59.111.160.195/32,no-resolve
+IP-CIDR,59.111.160.197/32,no-resolve
+IP-CIDR,59.111.181.35/32,no-resolve
+# APP API
+DOMAIN,api.iplay.163.com
+# HTTP-DNS
+DOMAIN,music.httpdns.c.163.com
+DOMAIN,ip.ws.126.net
+DOMAIN,nstool.netease.com
+DOMAIN,music.163.com
+DOMAIN,interface.music.163.com
