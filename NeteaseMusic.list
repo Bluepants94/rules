@@ -1,2 +1,5 @@
-DOMAIN-SUFFIX,music.126.net
-DOMAIN-SUFFIX,music.163.com
+USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,NeteaseMusic
+USER-AGENT,NeteaseMusic*,NeteaseMusic
+DOMAIN-SUFFIX,163yun.com,NeteaseMusic
+DOMAIN-SUFFIX,music.126.net,NeteaseMusic
+DOMAIN-SUFFIX,music.163.com,NeteaseMusic
