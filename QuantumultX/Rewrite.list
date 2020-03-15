@@ -53,7 +53,7 @@
 ^https?:\/\/(www.)?xshellcn\.com\/ url 302 https://www.netsarang.com/products/xsh_overview.html
 ^https?:\/\/(www.)?yuanchengxiezuo\.com\/ url 302 https://www.teamviewer.com/zhcn/
 ^https?:\/\/(www.)?zbrushcn\.com\/ url 302 http://pixologic.com/
-^https://aweme-eagle(.*)\.snssdk\.com/aweme/v2/ https://aweme-eagle$1.snssdk.com/aweme/v1/
+^https://aweme-eagle(.*)\.snssdk\.com/aweme/v2/ url 302 https://aweme-eagle$1.snssdk.com/aweme/v1/
 
 # JD Protection
 ^https?:\/\/coupon\.m\.jd\.com\/ url 302 https://coupon.m.jd.com/
