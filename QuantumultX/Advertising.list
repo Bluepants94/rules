@@ -1,5 +1,4 @@
 # Advertising 广告
-DOMAIN,image1.chinatelecom-ec.com,REJECT
 # > General
 DOMAIN-KEYWORD,adservice,REJECT
 
