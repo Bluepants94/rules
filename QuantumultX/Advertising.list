@@ -167,9 +167,6 @@ DOMAIN,log.ycapp.yiche.com,REJECT
 # > 百词斩
 DOMAIN,advertise.baicizhan.com,REJECT
 DOMAIN,advertise.baicizhan.org,REJECT
-# (C)
-# > 中国电信
-DOMAIN,image1.chinatelecom-ec.com,REJECT
 # > CNTV
 DOMAIN,galaxy.bjcathay.com,REJECT
 DOMAIN,mdrecv.app.cntvwb.cn,REJECT
@@ -228,8 +225,6 @@ DOMAIN,minfo.wps.cn,REJECT
 DOMAIN,mobad.ijinshan.com,REJECT
 DOMAIN,ups.ksmobile.net,REJECT
 DOMAIN,ws.ksmobile.net,REJECT
-# > KFC
-DOMAIN,yuntuapi.amap.com,REJECT
 # (L)
 # > Le
 DOMAIN-SUFFIX,webp2p.letv.com,REJECT
