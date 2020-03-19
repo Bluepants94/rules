@@ -181,8 +181,6 @@ DOMAIN,adshows.21cn.com
 # > 车来了
 DOMAIN,atrace.chelaile.net.cn
 DOMAIN,logs.chelaile.net.cn
-# (F)
-DOMAIN,res.kfc.com.cn
 # (G)
 # > Google
 DOMAIN-SUFFIX,doubleclick.net
@@ -228,6 +226,8 @@ DOMAIN,minfo.wps.cn
 DOMAIN,mobad.ijinshan.com
 DOMAIN,ups.ksmobile.net
 DOMAIN,ws.ksmobile.net
+# > KFC
+DOMAIN,yuntuapi.amap.com
 # (L)
 # > Le
 DOMAIN-SUFFIX,webp2p.letv.com
