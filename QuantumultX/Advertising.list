@@ -168,6 +168,8 @@ DOMAIN,log.ycapp.yiche.com,REJECT
 DOMAIN,advertise.baicizhan.com,REJECT
 DOMAIN,advertise.baicizhan.org,REJECT
 # (C)
+# > 中国电信
+DOMAIN,image1.chinatelecom-ec.com,REJECT
 # > CNTV
 DOMAIN,galaxy.bjcathay.com,REJECT
 DOMAIN,mdrecv.app.cntvwb.cn,REJECT
