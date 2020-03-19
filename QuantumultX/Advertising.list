@@ -227,7 +227,7 @@ DOMAIN,mobad.ijinshan.com,REJECT
 DOMAIN,ups.ksmobile.net,REJECT
 DOMAIN,ws.ksmobile.net,REJECT
 # > KFC
-DOMAIN,res.kfc.com.cn,REJECT
+DOMAIN,yuntuapi.amap.com,REJECT
 # (L)
 # > Le
 DOMAIN-SUFFIX,webp2p.letv.com,REJECT
