@@ -1,3 +1,4 @@
+payload:
   # > Google
   - DOMAIN-SUFFIX,abc.xyz
   - DOMAIN-SUFFIX,android.com
