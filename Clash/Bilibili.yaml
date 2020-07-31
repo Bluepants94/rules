@@ -1,3 +1,4 @@
+payload:
   # > Bilibili
   - DOMAIN-KEYWORD,bilibili
   - DOMAIN-SUFFIX,acg.tv
