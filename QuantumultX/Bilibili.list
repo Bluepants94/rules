@@ -1,5 +1,6 @@
 # > Bilibili
-DOMAIN-KEYWORD,bilibili,Bilibili
+USER-AGENT,bili*,Bilibili
+USER-AGENT,Bilibili*,Bilibili
 DOMAIN-SUFFIX,acg.tv,Bilibili
 DOMAIN-SUFFIX,acgvideo.com,Bilibili
 DOMAIN-SUFFIX,b23.tv,Bilibili
@@ -11,3 +12,4 @@ DOMAIN-SUFFIX,biligame.net,Bilibili
 DOMAIN-SUFFIX,bilivideo.com,Bilibili
 DOMAIN-SUFFIX,hdslb.com,Bilibili
 DOMAIN-SUFFIX,im9.com,Bilibili
+DOMAIN-SUFFIX,smtcdns.net,Bilibili
