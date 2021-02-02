@@ -1,5 +1,7 @@
 payload:
 # > Bilibili
+  - DOMAIN,upos-hz-mirrorakam.akamaized.net,Bilibili
+  - DOMAIN,api.snm0516.aisee.tv,Bilibili
   - DOMAIN-SUFFIX,acg.tv,Bilibili
   - DOMAIN-SUFFIX,acgvideo.com,Bilibili
   - DOMAIN-SUFFIX,b23.tv,Bilibili
