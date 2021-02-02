@@ -1,6 +1,8 @@
 # > Bilibili
 USER-AGENT,bili*
 USER-AGENT,Bilibili*
+DOMAIN,upos-hz-mirrorakam.akamaized.net
+DOMAIN,api.snm0516.aisee.tv
 DOMAIN-SUFFIX,acg.tv
 DOMAIN-SUFFIX,acgvideo.com
 DOMAIN-SUFFIX,b23.tv
