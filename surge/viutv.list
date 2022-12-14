@@ -1,0 +1,18 @@
+# > ViuTV
+USER-AGENT,ViuTV*
+DOMAIN-SUFFIX,bootstrapcdn.com
+DOMAIN-SUFFIX,firebaseio.com
+DOMAIN-SUFFIX,jwpcdn.com
+DOMAIN-SUFFIX,jwplayer.com
+DOMAIN-SUFFIX,nowe.com
+DOMAIN-SUFFIX,viu.com
+DOMAIN-SUFFIX,viu.tv
+DOMAIN-SUFFIX,viu.now.com
+DOMAIN,d1k2us671qcoau.cloudfront.net
+DOMAIN,d2anahhhmp1ffz.cloudfront.net
+DOMAIN,dfp6rglgjqszk.cloudfront.net
+DOMAIN,d3o7oi00quuwqu.cloudfront.net
+DOMAIN,d2s0eckaesreqn.cloudfront.net
+DOMAIN,pinpoint.us-east-1.amazonaws.com
+DOMAIN,mobileanalytics.us-east-1.amazonaws.com
+DOMAIN,cognito-identity.us-east-1.amazonaws.com
