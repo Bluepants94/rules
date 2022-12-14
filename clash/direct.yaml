@@ -1,4 +1,5 @@
-# > Direct
+payload:
+  # > Direct
   - DOMAIN,captive.apple.com
   - DOMAIN,pan.ommmg.xyz
   - DOMAIN,dl-data-01.ommmg.xyz
