@@ -29,3 +29,12 @@ DOMAIN,alt5-mtalk.google.com
 DOMAIN,alt6-mtalk.google.com
 DOMAIN,alt7-mtalk.google.com
 DOMAIN,alt8-mtalk.google.com
+
+
+# > Alibaba
+IP-CIDR,223.5.5.5/32,no-resolve
+IP-CIDR,223.6.6.6/32,no-resolve
+
+# > Tencent
+IP-CIDR,119.28.28.28/32,no-resolve
+IP-CIDR,182.254.116.0/24,no-resolve
