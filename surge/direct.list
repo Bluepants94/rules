@@ -20,6 +20,10 @@ DOMAIN-SUFFIX,frantech.ca
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,oppomobile.com
 DOMAIN-SUFFIX,turgame.com
+IP-CIDR,43.155.124.118/32,no-resolve
+IP-CIDR,108.177.125.188/32,no-resolve
+IP-CIDR,203.205.253.146/32,no-resolve
+IP-CIDR,203.205.219.56/32,no-resolve
 
 # > Alibaba
 IP-CIDR,223.5.5.5/32,no-resolve
