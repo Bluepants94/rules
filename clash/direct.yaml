@@ -3,9 +3,6 @@ payload:
   - DOMAIN,captive.apple.com
   - DOMAIN,pan.ommmg.xyz
   - DOMAIN,dl-data-01.ommmg.xyz
-  - DOMAIN,kp.m-team.cc,🇯🇵 Japan
-  - DOMAIN-SUFFIX,m-team.cc,🇯🇵 Japan
-  - DOMAIN-SUFFIX,turgame.com,🇯🇵 Japan
   - DOMAIN-SUFFIX,gateway.push-apple.com.akadns.net
   - DOMAIN-SUFFIX,push.apple.com
   - DOMAIN-SUFFIX,heytapmobi.com
