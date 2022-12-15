@@ -20,15 +20,6 @@ DOMAIN-SUFFIX,frantech.ca
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,oppomobile.com
 DOMAIN-SUFFIX,turgame.com
-DOMAIN,mtalk.google.com
-DOMAIN,alt1-mtalk.google.com
-DOMAIN,alt2-mtalk.google.com
-DOMAIN,alt3-mtalk.google.com
-DOMAIN,alt4-mtalk.google.com
-DOMAIN,alt5-mtalk.google.com
-DOMAIN,alt6-mtalk.google.com
-DOMAIN,alt7-mtalk.google.com
-DOMAIN,alt8-mtalk.google.com
 
 # > Alibaba
 IP-CIDR,223.5.5.5/32,no-resolve
