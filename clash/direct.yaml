@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,seedhost.eu
   - DOMAIN-SUFFIX,frantech.ca
   - DOMAIN-SUFFIX,1password.com
+  - DOMAIN-SUFFIX,ip-api.com
   - DOMAIN-SUFFIX,oppomobile.com
   - DOMAIN-SUFFIX,ele.me
   - DOMAIN-SUFFIX,dingtalk.com
