@@ -1,7 +1,6 @@
 payload:
   # > Direct
   - DOMAIN,captive.apple.com
-  - DOMAIN,pan.ommmg.xyz
   - DOMAIN,dl-data-01.ommmg.xyz
   - DOMAIN-SUFFIX,gateway.push-apple.com.akadns.net
   - DOMAIN-SUFFIX,push.apple.com
