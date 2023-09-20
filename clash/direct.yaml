@@ -74,6 +74,7 @@ payload:
   - DOMAIN-SUFFIX,taptapdada.com
   - DOMAIN-SUFFIX,heytapdownload.com
   - DOMAIN-SUFFIX,tanx.com
+  - DOMAIN-SUFFIX,dmhy.org
   - IP-CIDR,43.155.124.118/32,no-resolve
   - IP-CIDR,108.177.125.188/32,no-resolve
   - IP-CIDR,203.205.253.146/32,no-resolve
