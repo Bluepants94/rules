@@ -1,9 +1,5 @@
 payload:
   # > Direct
-  - DOMAIN,captive.apple.com
-  - DOMAIN,dl-data-01.ommmg.xyz
-  - DOMAIN-SUFFIX,gateway.push-apple.com.akadns.net
-  - DOMAIN-SUFFIX,push.apple.com
   - DOMAIN-SUFFIX,heytapmobi.com
   - DOMAIN-SUFFIX,heytapimage.com
   - DOMAIN-SUFFIX,95516.com
@@ -84,13 +80,6 @@ payload:
   - IP-CIDR,223.6.6.6/32,no-resolve
 
   # > Google
-  #  - DOMAIN-SUFFIX,blog.google
-  #  - DOMAIN-SUFFIX,googletraveladservices.com
-  #  - DOMAIN,clientservices.googleapis.com
-  #  - DOMAIN,dl.google.com
-  #  - DOMAIN,dl.l.google.com
-  #  - DOMAIN,update.googleapis.com
-  # >> Firebase Cloud Messaging
   - DOMAIN,mtalk.google.com
   - DOMAIN,alt1-mtalk.google.com
   - DOMAIN,alt2-mtalk.google.com
