@@ -1,0 +1,17 @@
+  # > Steam
+  - PROCESS-NAME,steam.exe,🇭🇰 Hong Kong
+  - PROCESS-NAME,steamwebhelper.exe,🇭🇰 Hong Kong
+  - DOMAIN-SUFFIX,steam-chat.com,🇭🇰 Hong Kong
+  - DOMAIN-SUFFIX,steamcontent.com,🇭🇰 Hong Kong
+  - DOMAIN-SUFFIX,steamgames.com,🇭🇰 Hong Kong
+  - DOMAIN-SUFFIX,steampowered.com,🇭🇰 Hong Kong
+  - DOMAIN-SUFFIX,steamstat.us,🇭🇰 Hong Kong
+  - DOMAIN-SUFFIX,steamstatic.com,🇭🇰 Hong Kong
+  - DOMAIN-SUFFIX,steamusercontent.com,🇭🇰 Hong Kong
+  - DOMAIN,steambroadcast.akamaized.net,🇭🇰 Hong Kong
+  - DOMAIN,steamcdn-a.akamaihd.net,🇭🇰 Hong Kong
+  - DOMAIN,steamcommunity-a.akamaihd.net,🇭🇰 Hong Kong
+  - DOMAIN,steamstore-a.akamaihd.net,🇭🇰 Hong Kong
+  - DOMAIN,steamusercontent-a.akamaihd.net,🇭🇰 Hong Kong
+  - DOMAIN,steamusercontent-a.akamaihd.net,🇭🇰 Hong Kong
+  - DOMAIN,steamuserimages-a.akamaihd.net,🇭🇰 Hong Kong
