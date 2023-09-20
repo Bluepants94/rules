@@ -18,6 +18,63 @@ DOMAIN-SUFFIX,seedhost.eu
 DOMAIN-SUFFIX,frantech.ca
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,oppomobile.com
+DOMAIN-SUFFIX,ele.me
+DOMAIN-SUFFIX,dingtalk.com
+DOMAIN-SUFFIX,elemecdn.com
+DOMAIN-SUFFIX,amap.com
+DOMAIN-SUFFIX,aliyuncs.com
+DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,alipayobjects.com
+DOMAIN-SUFFIX,alipay.com.cn
+DOMAIN-SUFFIX,aliapp.org
+DOMAIN-SUFFIX,alibabausercontent.com
+DOMAIN-SUFFIX,ximalaya.com
+DOMAIN-SUFFIX,meituan.com
+DOMAIN-SUFFIX,meituan.net
+DOMAIN-SUFFIX,dianping.com
+DOMAIN-SUFFIX,dpfile.com
+DOMAIN-SUFFIX,sankuai.com
+DOMAIN-SUFFIX,smzdm.com
+DOMAIN-SUFFIX,umeng.com
+DOMAIN-SUFFIX,umengcloud.com
+DOMAIN-SUFFIX,goofish.com
+DOMAIN-SUFFIX,alibaba-inc.com
+DOMAIN-SUFFIX,aliyun.com
+DOMAIN-SUFFIX,alibaba.com
+DOMAIN-SUFFIX,weibo.cn
+DOMAIN-SUFFIX,gitee.com
+DOMAIN-SUFFIX,gepush.com
+DOMAIN-SUFFIX,360buyimg.com
+DOMAIN-SUFFIX,getui.com
+DOMAIN-SUFFIX,qchannel03.cn
+DOMAIN-SUFFIX,uc.cn
+DOMAIN-SUFFIX,youku.com
+DOMAIN-SUFFIX,ucweb.com
+DOMAIN-SUFFIX,allawntech.com
+DOMAIN-SUFFIX,toutiao.com
+DOMAIN-SUFFIX,mmstat.com
+DOMAIN-SUFFIX,pglstatp-toutiao.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+DOMAIN-SUFFIX,bytedance.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,gdtimg.com
+DOMAIN-SUFFIX,ctobsnssdk.com
+DOMAIN-SUFFIX,getui.net
+DOMAIN-SUFFIX,xmcdn.com
+DOMAIN-SUFFIX,bytedance.com
+DOMAIN-SUFFIX,zijieapi.com
+DOMAIN-SUFFIX,midway.run
+DOMAIN-SUFFIX,sohu.run
+DOMAIN-SUFFIX,cup.com.cn
+DOMAIN-SUFFIX,tapdb.net
+DOMAIN-SUFFIX,taptap.com
+DOMAIN-SUFFIX,tapimg.com
+DOMAIN-SUFFIX,taptapdada.com
+DOMAIN-SUFFIX,heytapdownload.com
+DOMAIN-SUFFIX,tanx.com
 IP-CIDR,43.155.124.118/32,no-resolve
 IP-CIDR,108.177.125.188/32,no-resolve
 IP-CIDR,203.205.253.146/32,no-resolve
@@ -28,21 +85,15 @@ DOMAIN,log.mmstat.com
 DOMAIN,sycm.mmstat.com
 IP-CIDR,223.5.5.5/32,no-resolve
 IP-CIDR,223.6.6.6/32,no-resolve
-
-# > General
-DOMAIN,app.adjust.com
-DOMAIN,app.appsflyer.com
-DOMAIN,bdtj.tagtic.cn】
+  
+# China Area Network
+DOMAIN-SUFFIX,flyert.com
+DOMAIN-SUFFIX,gandi.net
+DOMAIN-SUFFIX,snapdrop.net
+DOMAIN,download.jetbrains.com
+DOMAIN,origin-a.akamaihd.net
 
 # > Google
-#DOMAIN-SUFFIX,blog.google // Google Blog
-#DOMAIN-SUFFIX,googletraveladservices.com // Google Flights
-#DOMAIN,clientservices.googleapis.com
-#DOMAIN,update.googleapis.com
-#DOMAIN,dl.google.com
-#DOMAIN,dl.l.google.com
-#DOMAIN,update.googleapis.com
-# >> Firebase Cloud Messaging
 DOMAIN,mtalk.google.com
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
@@ -52,9 +103,6 @@ DOMAIN,alt5-mtalk.google.com
 DOMAIN,alt6-mtalk.google.com
 DOMAIN,alt7-mtalk.google.com
 DOMAIN,alt8-mtalk.google.com
-
-# >> Paramount+
-# DOMAIN,pubads.g.doubleclick.net
 
 # > Strava
 DOMAIN,analytics.strava.com
@@ -66,7 +114,26 @@ DOMAIN,vd.l.qq.com
 DOMAIN,vi.l.qq.com
 IP-CIDR,119.28.28.28/32,no-resolve
 IP-CIDR,182.254.116.0/24,no-resolve
-
+IP-CIDR,203.205.238.0/23,no-resolve
+IP-CIDR,203.205.254.0/23,no-resolve
+  
+# ---(Microsoft)---
+# > Outlook
+DOMAIN,outlook.office365.com
+DOMAIN,smtp-mail.outlook.com
+DOMAIN,smtp.office365.com
+# > Windows Server Update Services
+DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
+DOMAIN-SUFFIX,update.microsoft.com
+DOMAIN-SUFFIX,windowsupdate.com
+DOMAIN-SUFFIX,windowsupdate.microsoft.com
+DOMAIN,download.microsoft.com
+DOMAIN,wustat.windows.com
+DOMAIN,ntservicepack.microsoft.com
+# > IP Query
+DOMAIN,ip.istatmenus.app
+DOMAIN,sms.imagetasks.com
+  
 # > Umeng
 DOMAIN,msg.umeng.com
 DOMAIN,msg.umengcloud.com
