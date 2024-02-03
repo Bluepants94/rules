@@ -1,8 +1,9 @@
 payload:
   # > Direct
   - DOMAIN,captive.apple.com
-  - DOMAIN,emby-hk-*.ommmg.xyz
-  - DOMAIN,emby-us-*.ommmg.xyz
+  - DOMAIN,emby-hk-03.ommmg.xyz
+  - DOMAIN,emby-us-03.ommmg.xyz
+  - DOMAIN,emby-us-04.ommmg.xyz
   - DOMAIN-SUFFIX,gateway.push-apple.com.akadns.net
   - DOMAIN-SUFFIX,push.apple.com
   - DOMAIN-SUFFIX,heytapmobi.com
