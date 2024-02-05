@@ -2,6 +2,7 @@ payload:
   # > Direct
   - DOMAIN,captive.apple.com
   - DOMAIN,emby-hk-03.ommmg.xyz
+  - DOMAIN,emby-jp-05.ommmg.xyz
   - DOMAIN,emby-us-03.ommmg.xyz
   - DOMAIN,emby-us-04.ommmg.xyz
   - DOMAIN-SUFFIX,gateway.push-apple.com.akadns.net
