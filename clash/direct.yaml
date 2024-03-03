@@ -1,6 +1,7 @@
 payload:
   # > Direct
   - DOMAIN,captive.apple.com
+  - DOMAIN,cdn-hk.ommmg.xyz
   - DOMAIN,cdn-jp.ommmg.xyz
   - DOMAIN,cdn-us.ommmg.xyz
   - DOMAIN-SUFFIX,gateway.push-apple.com.akadns.net
