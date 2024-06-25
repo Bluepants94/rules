@@ -3,13 +3,21 @@ payload:
   - DOMAIN,captive.apple.com
   - DOMAIN,raw.ommmg.xyz
   - DOMAIN,cdn-hk.ommmg.xyz
+  - DOMAIN,cdn-hk-v6.ommmg.xyz
   - DOMAIN,cdn-jp.ommmg.xyz
+  - DOMAIN,cdn-jp-v6.ommmg.xyz
   - DOMAIN,cdn-us.ommmg.xyz
+  - DOMAIN,cdn-us-v6.ommmg.xyz
   - DOMAIN,stream-1.ommmg.xyz
+  - DOMAIN,stream-1-v6.ommmg.xyz
   - DOMAIN,stream-2.ommmg.xyz
+  - DOMAIN,stream-2-v6.ommmg.xyz
   - DOMAIN,stream-3.ommmg.xyz
+  - DOMAIN,stream-3-v6.ommmg.xyz
   - DOMAIN,stream-4.ommmg.xyz
+  - DOMAIN,stream-4-v6.ommmg.xyz
   - DOMAIN,stream-5.ommmg.xyz
+  - DOMAIN,stream-5-v6.ommmg.xyz
   - DOMAIN,embyvip.misakaf.org
   - DOMAIN,ody.iplc.li
   - DOMAIN-SUFFIX,gateway.push-apple.com.akadns.net
