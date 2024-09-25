@@ -2,6 +2,7 @@ payload:
   # > Direct
   - DOMAIN,captive.apple.com
   - DOMAIN,raw.ommmg.xyz
+  - DOMAIN,pan.ommmg.xyz
   - DOMAIN,cdn-hk.ommmg.xyz
   - DOMAIN,cdn-hk-v6.ommmg.xyz
   - DOMAIN,cdn-jp.ommmg.xyz
