@@ -1,14 +1,7 @@
 payload:
   # > Direct
   - DOMAIN,captive.apple.com
-  - DOMAIN,raw.ommmg.xyz
-  - DOMAIN,pan.ommmg.xyz
-  - DOMAIN,cdn-*.ommmg.xyz
-  - DOMAIN,misakaf-cdn-*.ommmg.xyz
-  - DOMAIN,ody-cdn-*.ommmg.xyz
-  - DOMAIN,stream-*.ommmg.xyz
-  - DOMAIN,misakaf-stream-*.ommmg.xyz
-  - DOMAIN,ody-stream-*.ommmg.xyz
+  - DOMAIN-SUFFIX,ommmg.xyz
   - DOMAIN,embyvip.misakaf.org
   - DOMAIN,ody.iplc.li
   - DOMAIN-SUFFIX,gateway.push-apple.com.akadns.net
