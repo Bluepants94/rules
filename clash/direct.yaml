@@ -1,7 +1,7 @@
 payload:
   # > Direct
-  - DOMAIN,captive.apple.com  - DOMAIN,cdn-hk.ommmg.xyz
-  - DOMAIN,misakaf-cdn-hk.ommmg.xyz
+  - DOMAIN,captive.apple.com
+  - DOMAIN-SUFFIX,hetzner.com
   - DOMAIN-SUFFIX,ommmg.xyz
   - DOMAIN,embyvip.misakaf.org
   - DOMAIN,ody.iplc.li
