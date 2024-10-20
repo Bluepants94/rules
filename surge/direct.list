@@ -2,6 +2,7 @@
 AND,((OR,((DOMAIN,time-ios.apple.com), (DOMAIN-SUFFIX,pool.ntp.org))), (DEST-PORT,123))
 OR,((DOMAIN,time-ios.apple.com), (DOMAIN-SUFFIX,pool.ntp.org))
 DOMAIN,captive.apple.com
+DOMAIN-SUFFIX,hetzner.com
 DOMAIN-SUFFIX,ommmg.xyz
 DOMAIN,embyvip.misakaf.org
 DOMAIN,ody.iplc.li
