@@ -1,4 +1,4 @@
 payload:
-  - DOMAIN,kp.m-team.cc,🇯🇵 Japan
-  - DOMAIN-SUFFIX,m-team.cc,🇯🇵 Japan
-  - DOMAIN,www.bing.com,🇯🇵 Japan
+  - DOMAIN,kp.m-team.cc
+  - DOMAIN-SUFFIX,m-team.cc
+  - DOMAIN,www.bing.com
