@@ -1,3 +1,5 @@
 payload:
   # > All AI
   - DOMAIN,generativelanguage.googleapis.com
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,claude.ai
