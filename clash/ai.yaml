@@ -3,3 +3,4 @@ payload:
   - DOMAIN,generativelanguage.googleapis.com
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,cloudapi.vip
