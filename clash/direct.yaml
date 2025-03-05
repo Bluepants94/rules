@@ -3,7 +3,6 @@ payload:
   - DOMAIN,captive.apple.com
   - DOMAIN-SUFFIX,hetzner.com
   - DOMAIN-SUFFIX,ommmg.xyz
-  - DOMAIN,embyvip.misakaf.org
   - DOMAIN,ody.iplc.li
   - DOMAIN-SUFFIX,gateway.push-apple.com.akadns.net
   - DOMAIN-SUFFIX,push.apple.com
