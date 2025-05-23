@@ -2,6 +2,8 @@ payload:
   # > Direct
   - DOMAIN,captive.apple.com
   - DOMAIN-SUFFIX,hetzner.com
+  - DOMAIN,ody-stream-cdn.ommmg.xyz
+  - DOMAIN,ody-stream-2.ommmg.xyz
   - DOMAIN,stream-cdn.ommmg.xyz
   - DOMAIN,stream-2.ommmg.xyz
   - DOMAIN,pan.ommmg.xyz
