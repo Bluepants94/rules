@@ -1,13 +1,12 @@
 payload:
   # > Direct
   - DOMAIN,captive.apple.com
-  - DOMAIN-SUFFIX,hetzner.com
   - DOMAIN,ody-stream-cdn.ommmg.xyz
   - DOMAIN,ody-stream-2.ommmg.xyz
   - DOMAIN,stream-cdn.ommmg.xyz
   - DOMAIN,stream-2.ommmg.xyz
   - DOMAIN,pan.ommmg.xyz
-  - DOMAIN,ody.iplc.li
+  - DOMAIN-SUFFIX,hetzner.com
   - DOMAIN-SUFFIX,lala.gg
   - DOMAIN-SUFFIX,gateway.push-apple.com.akadns.net
   - DOMAIN-SUFFIX,push.apple.com
