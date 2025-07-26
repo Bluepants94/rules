@@ -35,8 +35,6 @@ https://ccsp-egmas.sf-express.com/cx-app-base/base/app/ad/queryInfoFlow, script-
 其他 = type=http-response,requires-body=0,max-size=-1,pattern=^https?:\/\/mobilepaas\.abchina\.com\.cn:441\/mgw\.htm, script-path=https://raw.githubusercontent.com/ddgksf2013/Scripts/master/abchina.js, script-update-interval=-1, binary-body-mode=0
 其他 = type=http-response,requires-body=0,max-size=-1,pattern=^https?:\/\/api\.jk\.cn\/m\.api, script-path=https://raw.githubusercontent.com/ddgksf2013/Scripts/master/pinganads.js, script-update-interval=-1, binary-body-mode=0
 
-
-
 [Map Local]
 # > 其他
 ^https?:\/\/2025.07.24/c387/v2.0.607 data-type=text data="" status-code=200
