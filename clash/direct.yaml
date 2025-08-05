@@ -1,10 +1,12 @@
 payload:
   # > Direct
+  - PROCESS-NAME,cmd.exe
+  - PROCESS-NAME,iperf3.exe
   - DOMAIN,captive.apple.com
   - DOMAIN,ody-stream-cdn.ommmg.xyz
-  - DOMAIN,ody-stream-2.ommmg.xyz
   - DOMAIN,stream-cdn.ommmg.xyz
-  - DOMAIN,stream-2.ommmg.xyz
+  - DOMAIN,stream-jp-01.ommmg.xyz
+  - DOMAIN,stream-jp-02.ommmg.xyz
   - DOMAIN,pan.ommmg.xyz
   - DOMAIN-SUFFIX,hetzner.com
   - DOMAIN-SUFFIX,lala.gg
