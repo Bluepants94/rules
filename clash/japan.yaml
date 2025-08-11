@@ -1,3 +1,7 @@
 payload:
   - DOMAIN,www.bing.com
   - DOMAIN,one.ommmg.xyz
+  - DOMAIN,chat.ommmg.xyz
+  - DOMAIN,auth.ommmg.xyz
+  - DOMAIN,minio.ommmg.xyz
+  - DOMAIN,minio-ui.ommmg.xyz
