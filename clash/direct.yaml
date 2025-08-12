@@ -4,6 +4,7 @@ payload:
   - PROCESS-NAME,iperf3.exe
   - DOMAIN,captive.apple.com
   - DOMAIN,ody-stream-cdn.ommmg.xyz
+  - DOMAIN,rfc-stream-cdn.ommmg.xyz
   - DOMAIN,stream-cdn.ommmg.xyz
   - DOMAIN,stream-jp-01.ommmg.xyz
   - DOMAIN,stream-jp-02.ommmg.xyz
