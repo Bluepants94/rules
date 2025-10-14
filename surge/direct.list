@@ -6,8 +6,8 @@ DOMAIN,ody-stream-cdn.ommmg.xyz
 DOMAIN,rfc-stream-cdn.ommmg.xyz
 DOMAIN,rfc-stream-hk-01.ommmg.xyz
 DOMAIN,dsl-stream-cdn.ommmg.xyz
-DOMAIN,stream-jp-01.ommmg.xyz
-DOMAIN,stream-jp-02.ommmg.xyz
+DOMAIN,dsl-stream-jp-01.ommmg.xyz
+DOMAIN,dsl-stream-jp-02.ommmg.xyz
 DOMAIN,storage.ommmg.xyz
 DOMAIN-SUFFIX,hetzner.com
 DOMAIN-SUFFIX,lala.gg
