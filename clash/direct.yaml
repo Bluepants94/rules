@@ -9,6 +9,7 @@ payload:
   - DOMAIN,stream-jp-01.ommmg.xyz
   - DOMAIN,stream-jp-02.ommmg.xyz
   - DOMAIN,storage.ommmg.xyz
+  - DOMAIN,raw.ommmg.xyz
   - DOMAIN-SUFFIX,hetzner.com
   - DOMAIN-SUFFIX,lala.gg
   - DOMAIN-SUFFIX,gateway.push-apple.com.akadns.net
