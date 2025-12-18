@@ -10,6 +10,7 @@ DOMAIN,dsl-stream-cdn.ommmg.xyz
 DOMAIN,dsl-stream-jp-01.ommmg.xyz
 DOMAIN,dsl-stream-jp-02.ommmg.xyz
 DOMAIN,storage.ommmg.xyz
+DOMAIN,storage-hk-01.ommmg.xyz
 DOMAIN-SUFFIX,hetzner.com
 DOMAIN-SUFFIX,lala.gg
 DOMAIN-SUFFIX,gateway.push-apple.com.akadns.net
