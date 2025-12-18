@@ -9,6 +9,9 @@ DOMAIN,rfc-stream-hk-02.ommmg.xyz
 DOMAIN,dsl-stream-cdn.ommmg.xyz
 DOMAIN,dsl-stream-jp-01.ommmg.xyz
 DOMAIN,dsl-stream-jp-02.ommmg.xyz
+DOMAIN,ods-stream-cdn.ommmg.xyz
+DOMAIN,ods-stream-jp-01.ommmg.xyz
+DOMAIN,ods-stream-jp-02.ommmg.xyz
 DOMAIN,storage.ommmg.xyz
 DOMAIN,storage-hk-01.ommmg.xyz
 DOMAIN-SUFFIX,hetzner.com
