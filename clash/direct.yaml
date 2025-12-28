@@ -2,6 +2,8 @@ payload:
   # > Direct
   - DOMAIN-KEYWORD,v2-tun
   - DOMAIN-KEYWORD,v2tun
+  - DOMAIN-KEYWORD,y-too
+  - DOMAIN-KEYWORD,ytoo
   - PROCESS-NAME,cmd.exe
   - PROCESS-NAME,iperf3.exe
   - DOMAIN,captive.apple.com
