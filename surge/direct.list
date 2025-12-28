@@ -3,6 +3,8 @@ AND,((OR,((DOMAIN,time-ios.apple.com), (DOMAIN-SUFFIX,pool.ntp.org))), (DEST-POR
 OR,((DOMAIN,time-ios.apple.com), (DOMAIN-SUFFIX,pool.ntp.org))
 DOMAIN-KEYWORD,v2-tun
 DOMAIN-KEYWORD,v2tun
+DOMAIN-KEYWORD,y-too
+DOMAIN-KEYWORD,ytoo
 PROCESS-NAME,cmd.exe
 PROCESS-NAME,iperf3.exe
 DOMAIN,captive.apple.com
