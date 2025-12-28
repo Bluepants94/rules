@@ -17,6 +17,7 @@ payload:
   - DOMAIN,gemini.google.com
   - DOMAIN-SUFFIX,generativeai.google
   - DOMAIN,proactivebackend-pa.googleapis.com
+  - DOMAIN,notifications-pa.googleapis.com
   - DOMAIN-KEYWORD,colab
   - DOMAIN-KEYWORD,developerprofiles
   - DOMAIN-KEYWORD,generativelanguage
