@@ -1,28 +1,10 @@
 # > Direct
 AND,((OR,((DOMAIN,time-ios.apple.com), (DOMAIN-SUFFIX,pool.ntp.org))), (DEST-PORT,123))
 OR,((DOMAIN,time-ios.apple.com), (DOMAIN-SUFFIX,pool.ntp.org))
-DOMAIN-KEYWORD,v2-tun
-DOMAIN-KEYWORD,v2tun
-DOMAIN-KEYWORD,y-too
-DOMAIN-KEYWORD,ytoo
-PROCESS-NAME,cmd.exe
-PROCESS-NAME,iperf3.exe
-DOMAIN,captive.apple.com
-DOMAIN,rfc-stream-cdn.ommmg.xyz
-DOMAIN,rfc-stream-hk-01.ommmg.xyz
-DOMAIN,rfc-stream-hk-02.ommmg.xyz
-DOMAIN,dsl-stream-cdn.ommmg.xyz
-DOMAIN,dsl-stream-jp-01.ommmg.xyz
-DOMAIN,dsl-stream-jp-02.ommmg.xyz
-DOMAIN,dsl-stream-us-01.ommmg.xyz
-DOMAIN,dsl-stream-us-02.ommmg.xyz
-DOMAIN,ods-stream-cdn.ommmg.xyz
-DOMAIN,ods-stream-jp-01.ommmg.xyz
-DOMAIN,ods-stream-jp-02.ommmg.xyz
-DOMAIN,ods-stream-us-01.ommmg.xyz
-DOMAIN,ods-stream-us-02.ommmg.xyz
-DOMAIN,storage.ommmg.xyz
-DOMAIN,storage-hk-01.ommmg.xyz
+AND,((DOMAIN-SUFFIX,ommmg.xyz),(DOMAIN-KEYWORD,rfc-stream-))
+AND,((DOMAIN-SUFFIX,ommmg.xyz),(DOMAIN-KEYWORD,dsl-stream-))
+AND,((DOMAIN-SUFFIX,ommmg.xyz),(DOMAIN-KEYWORD,ods-stream-))
+AND,((DOMAIN-SUFFIX,ommmg.xyz),(DOMAIN-KEYWORD,storage))
 DOMAIN-SUFFIX,hetzner.com
 DOMAIN-SUFFIX,lala.gg
 DOMAIN-SUFFIX,gateway.push-apple.com.akadns.net
