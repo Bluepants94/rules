@@ -3,7 +3,7 @@ payload:
   - AND,((DOMAIN-SUFFIX,ommmg.xyz),(DOMAIN-KEYWORD,rfc-stream-))
   - AND,((DOMAIN-SUFFIX,ommmg.xyz),(DOMAIN-KEYWORD,dsl-stream-))
   - AND,((DOMAIN-SUFFIX,ommmg.xyz),(DOMAIN-KEYWORD,ods-stream-))
-  - AND,((DOMAIN-SUFFIX,ommmg.xyz),(DOMAIN-KEYWORD,storage)
+  - AND,((DOMAIN-SUFFIX,ommmg.xyz),(DOMAIN-KEYWORD,storage))
   - DOMAIN-KEYWORD,v2-tun
   - DOMAIN-KEYWORD,v2tun
   - DOMAIN-KEYWORD,y-too
