@@ -1,10 +1,10 @@
 # > Direct
 AND,((OR,((DOMAIN,time-ios.apple.com), (DOMAIN-SUFFIX,pool.ntp.org))), (DEST-PORT,123))
 OR,((DOMAIN,time-ios.apple.com), (DOMAIN-SUFFIX,pool.ntp.org))
-AND,((DOMAIN-SUFFIX,ommmg.xyz),(DOMAIN-KEYWORD,rfc-stream-))
-AND,((DOMAIN-SUFFIX,ommmg.xyz),(DOMAIN-KEYWORD,dsl-stream-))
-AND,((DOMAIN-SUFFIX,ommmg.xyz),(DOMAIN-KEYWORD,ods-stream-))
-AND,((DOMAIN-SUFFIX,ommmg.xyz),(DOMAIN-KEYWORD,uhd-stream-))
+AND,((DOMAIN-SUFFIX,ommmg.xyz),(DOMAIN-KEYWORD,rfc))
+AND,((DOMAIN-SUFFIX,ommmg.xyz),(DOMAIN-KEYWORD,dsl))
+AND,((DOMAIN-SUFFIX,ommmg.xyz),(DOMAIN-KEYWORD,ods))
+AND,((DOMAIN-SUFFIX,ommmg.xyz),(DOMAIN-KEYWORD,uhd))
 AND,((DOMAIN-SUFFIX,ommmg.xyz),(DOMAIN-KEYWORD,storage))
 DOMAIN,chat.ommmg.xyz
 DOMAIN-KEYWORD,v2-tun
