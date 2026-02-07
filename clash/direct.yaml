@@ -5,6 +5,7 @@ payload:
   - AND,((DOMAIN-SUFFIX,ommmg.xyz),(DOMAIN-KEYWORD,ods-stream-))
   - AND,((DOMAIN-SUFFIX,ommmg.xyz),(DOMAIN-KEYWORD,uhd-stream-))
   - AND,((DOMAIN-SUFFIX,ommmg.xyz),(DOMAIN-KEYWORD,storage))
+  - DOMAIN,chat.ommmg.xyz
   - DOMAIN-KEYWORD,v2-tun
   - DOMAIN-KEYWORD,v2tun
   - DOMAIN-KEYWORD,y-too
