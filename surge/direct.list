@@ -7,6 +7,9 @@ AND,((DOMAIN-SUFFIX,ommmg.xyz),(DOMAIN-KEYWORD,ods))
 AND,((DOMAIN-SUFFIX,ommmg.xyz),(DOMAIN-KEYWORD,uhd))
 AND,((DOMAIN-SUFFIX,ommmg.xyz),(DOMAIN-KEYWORD,storage))
 DOMAIN,chat.ommmg.xyz
+DOMAIN,cli-api.ommmg.xyz
+DOMAIN,new-api.ommmg.xyz
+DOMAIN,ai-api.ommmg.xyz
 DOMAIN-KEYWORD,v2-tun
 DOMAIN-KEYWORD,v2tun
 DOMAIN-KEYWORD,y-too
