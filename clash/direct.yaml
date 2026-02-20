@@ -7,6 +7,7 @@ payload:
   - AND,((DOMAIN-SUFFIX,ommmg.xyz),(DOMAIN-KEYWORD,storage))
   - DOMAIN,chat.ommmg.xyz
   - DOMAIN,cli-api.ommmg.xyz
+  - DOMAIN,cliplus-api.ommmg.xyz
   - DOMAIN,new-api.ommmg.xyz
   - DOMAIN,ai-api.ommmg.xyz
   - DOMAIN-KEYWORD,v2-tun
