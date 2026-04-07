@@ -4,6 +4,7 @@ OR,((DOMAIN,time-ios.apple.com), (DOMAIN-SUFFIX,pool.ntp.org))
 AND,((DOMAIN-SUFFIX,ommmg.xyz),(DOMAIN-KEYWORD,dsl))
 AND,((DOMAIN-SUFFIX,ommmg.xyz),(DOMAIN-KEYWORD,ods))
 AND,((DOMAIN-SUFFIX,ommmg.xyz),(DOMAIN-KEYWORD,storage))
+IP-CIDR,82.158.226.32/32,no-resolve
 DOMAIN,rfc-stream-cdn.ommmg.xyz
 DOMAIN,chat.ommmg.xyz
 DOMAIN,cli-api.ommmg.xyz
