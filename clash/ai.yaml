@@ -6,3 +6,4 @@ payload:
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,cloudapi.vip
+  - DOMAIN,integrate.api.nvidia.com
