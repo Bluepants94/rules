@@ -6,7 +6,6 @@ AND,((DOMAIN-SUFFIX,ommmg.xyz),(DOMAIN-KEYWORD,ods))
 AND,((DOMAIN-SUFFIX,ommmg.xyz),(DOMAIN-KEYWORD,storage))
 IP-CIDR,82.158.226.32/32,no-resolve
 DOMAIN,api.pennmax.cloud
-DOMAIN-SUFFIX,opencode.ai
 DOMAIN,rfc-stream-cdn.ommmg.xyz
 DOMAIN,tv.ommmg.xyz
 DOMAIN-KEYWORD,v2-tun
