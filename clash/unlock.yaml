@@ -1,3 +1,4 @@
 payload:
   # > All unlock
   - DOMAIN-SUFFIX,claude.com
+  - DOMAIN-SUFFIX,opencode.ai
