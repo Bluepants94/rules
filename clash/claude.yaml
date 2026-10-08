@@ -1,31 +1,31 @@
 payload:
 # 核心域名（ DOMAIN-SUFFIX 已覆盖所有 *.anthropic.com 子域名）
- - DOMAIN-SUFFIX,http://anthropic.com
- - DOMAIN-SUFFIX,http://claude.ai
- - DOMAIN-SUFFIX,http://claude.com
- - DOMAIN-SUFFIX,http://clau.de
- - DOMAIN-SUFFIX,http://claudemcpclient.com
- - DOMAIN-SUFFIX,http://claudeusercontent.com
+ - DOMAIN-SUFFIX,anthropic.com
+ - DOMAIN-SUFFIX,claude.ai
+ - DOMAIN-SUFFIX,claude.com
+ - DOMAIN-SUFFIX,clau.de
+ - DOMAIN-SUFFIX,claudemcpclient.com
+ - DOMAIN-SUFFIX,claudeusercontent.com
 
 # CDN 和静态资源
- - DOMAIN,http://servd-anthropic-website.b-cdn.net
- - DOMAIN,http://anthropic.com.cdn.cloudflare.net
+ - DOMAIN,servd-anthropic-website.b-cdn.net
+ - DOMAIN,anthropic.com.cdn.cloudflare.net
 
 # 认证 / 内容
- - DOMAIN,http://anthropic.auth0.com
- - DOMAIN,http://anthropic-com.ghost.io
+ - DOMAIN,anthropic.auth0.com
+ - DOMAIN,anthropic-com.ghost.io
 
 # 监控和遥测
- - DOMAIN-SUFFIX,http://sentry.io
- - DOMAIN-SUFFIX,http://statsigapi.net
- - DOMAIN,http://browser-intake-us5-datadoghq.com
+ - DOMAIN-SUFFIX,sentry.io
+ - DOMAIN-SUFFIX,statsigapi.net
+ - DOMAIN,browser-intake-us5-datadoghq.com
  - DOMAIN-KEYWORD,datadog
  - DOMAIN-KEYWORD,sift
 
 # 客服 / 第三方 widget
- - DOMAIN-SUFFIX,http://intercom.io
- - DOMAIN-SUFFIX,http://intercomcdn.com
- - DOMAIN,http://cdn.usefathom.com
+ - DOMAIN-SUFFIX,intercom.io
+ - DOMAIN-SUFFIX,intercomcdn.com
+ - DOMAIN,cdn.usefathom.com
 
 # IP 段 / ASN 兜底
  - IP-CIDR,160.79.104.0/21,no-resolve
