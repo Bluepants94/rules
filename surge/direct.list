@@ -3,12 +3,9 @@ AND,((OR,((DOMAIN,time-ios.apple.com), (DOMAIN-SUFFIX,pool.ntp.org))), (DEST-POR
 OR,((DOMAIN,time-ios.apple.com), (DOMAIN-SUFFIX,pool.ntp.org))
 AND,((DOMAIN-SUFFIX,ommmg.xyz),(DOMAIN-KEYWORD,dsl))
 AND,((DOMAIN-SUFFIX,ommmg.xyz),(DOMAIN-KEYWORD,ods))
-AND,((DOMAIN-SUFFIX,ommmg.xyz),(DOMAIN-KEYWORD,storage))
+AND,((DOMAIN-SUFFIX,ommmg.xyz),(DOMAIN-KEYWORD,rfc))
 IP-CIDR,82.158.226.32/32,no-resolve
 DOMAIN,api.pennmax.cloud
-DOMAIN,rfc-stream-cdn.ommmg.xyz
-DOMAIN,tv.ommmg.xyz
-DOMAIN,chat.ommmg.xyz
 DOMAIN-KEYWORD,v2-tun
 DOMAIN-KEYWORD,v2tun
 DOMAIN-KEYWORD,y-too
